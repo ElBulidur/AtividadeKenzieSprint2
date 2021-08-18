@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-color: #58555A;
+}
+
+header, footer{
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    height: 10vh;
+}
+
+header h1{
+    display: block;
+    position: relative;
+    margin: auto;
+}
+main form{
+    padding: 20px;
+}
+
+main form fieldset{
+    padding: 7px;
+    color: #FFFFFF;
+}
+main form fieldset label, input{
+    margin: 3px 0px 3px 0px
+}
